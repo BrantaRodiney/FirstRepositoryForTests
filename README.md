@@ -1,0 +1,2 @@
+# OctoSquid
+Computer programming studies
